@@ -4,7 +4,7 @@
 ## Installation
 
 ```bash
-$ source aliases.sh
+$ source alias.sh
 ```
 
 ## Aliases
